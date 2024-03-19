@@ -3,7 +3,7 @@
     // foreground/font: #737373
     // fonttitle: #a3a3a3
     // border: #1C1C1C
-    "name": "nebbula-nights",
+    "name": "nebula-nights",
     "author": "Emmanuel",
     "maintainers": ["Emmanuel <bayonaj368@gmail.com>"],
     "type": "dark",
@@ -89,7 +89,14 @@
 
         "panel.border": "#1C1C1C",
 
-        "progressBar.background": "#d946ef"
+        "progressBar.background": "#d946ef",
+
+        "menu.background": "#171717",
+        "menu.border": "#1C1C1C",
+        "menu.foreground": "#737373",
+        "menu.selectionBackground": "#1C1C1C",
+        "menu.selectionForeground": "#A3A3A3",
+        "menu.separatorBackground": "#1C1C1C"
     },
     "tokenColors": [
         {

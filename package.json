@@ -1,9 +1,13 @@
 {
-  "name": "nebbula-nights",
+  "name": "nebula-nights",
   "displayName": "NebulaNights",
   "description": "A dark theme inspired by the mysterious beauty of nebula-filled nights.",
   "version": "0.0.1",
   "publisher": "EmmanuelBayona",
+  "repository": {
+    "url": "https://github.com/EmmanuelBayona/Nebula-nights-vscode-theme",
+    "type": "git"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
