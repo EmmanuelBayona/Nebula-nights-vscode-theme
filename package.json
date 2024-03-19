@@ -1,8 +1,9 @@
 {
-  "name": "nebbula-night",
-  "displayName": "NebulaNight",
+  "name": "nebbula-nights",
+  "displayName": "NebulaNights",
   "description": "A dark theme inspired by the mysterious beauty of nebula-filled nights.",
   "version": "0.0.1",
+  "publisher": "EmmanuelBayona",
   "engines": {
     "vscode": "^1.87.0"
   },
@@ -12,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "nebbula-night",
+        "label": "nebbula-nights",
         "uiTheme": "vs-dark",
         "path": "./themes/custom-theme-color-theme.json"
       }
