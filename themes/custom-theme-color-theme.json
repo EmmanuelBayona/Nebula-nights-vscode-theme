@@ -3,7 +3,10 @@
     // foreground/font: #737373
     // fonttitle: #a3a3a3
     // border: #1C1C1C
-    "name": "custom-theme",
+    "name": "NebulaNight",
+    "author": "Emmanuel",
+    "maintainers": ["Emmanuel <bayonaj368@gmail.com>"],
+    "type": "dark",
     "colors": {
         "editor.background": "#171717",
         "editor.selectionBackground": "#4a044e7a",
