@@ -16,6 +16,7 @@
         "editorWhitespace.foreground": "#1C1C1C",
 
         "tab.inactiveBackground": "#171717",
+        "tab.activeBackground": "#171717",
         "tab.activeForeground": "#b1b1b1",
         "tab.inactiveForeground": "#737373",
         "tab.activeBorder": "#737373",
@@ -61,7 +62,31 @@
         "list.errorForeground": "#f43f5e",
 
         "tree.indentGuidesStroke": "#737373",
-        "tree.inactiveIndentGuidesStroke": "#1C1C1C"
+        "tree.inactiveIndentGuidesStroke": "#1C1C1C",
+
+        "input.background": "#171717",
+        "input.foreground": "#A3A3A3",
+        "input.border": "#1C1C1C",
+
+        "editorWidget.background": "#171717",
+        "editorWidget.border": "#1C1C1C",
+        "editorWidget.foreground": "#A3A3A3",
+
+        "widget.shadow": "#171717",
+        "widget.border": "#1C1C1C",
+
+        "button.background": "#171717",
+        "button.foreground": "#d946ef",
+        "button.border": "#d846ef1a",
+
+        "textLink.foreground": "#b1b1b1",
+        "textLink.activeForeground": "#d846efad",
+
+        "focusBorder": "#1C1C1C",
+
+        "panel.border": "#1C1C1C",
+
+        "progressBar.background": "#d946ef"
     },
     "tokenColors": [
         {
