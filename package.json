@@ -8,6 +8,10 @@
     "url": "https://github.com/EmmanuelBayona/Nebula-nights-vscode-theme",
     "type": "git"
   },
+  "bugs": {
+	"url": "https://github.com/EmmanuelBayona/Nebula-nights-vscode-theme/issues"
+},
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.87.0"
   },
